@@ -1,3 +1,5 @@
+// Application shell; root component
+
 import Head from "next/head";
 
 import Layout from "../components/layout/Layout";

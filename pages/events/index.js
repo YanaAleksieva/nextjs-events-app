@@ -23,6 +23,7 @@ const AllEventsPage = (props) => {
         <meta
           name="description"
           content="NextJS project about finding out events"
+          key="description"
         />
       </Head>
       <EventsSearch onSearch={findEventsHandler} />
